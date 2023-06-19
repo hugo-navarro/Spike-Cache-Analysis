@@ -1,0 +1,998 @@
+<8><8><8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           9657089
+D$ Write Misses:          216643
+D$ Writebacks:            533991
+D$ Miss Rate:             0.272%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           33
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><8><4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           41612563
+D$ Write Misses:          742760
+D$ Writebacks:            1651322
+D$ Miss Rate:             1.165%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           59
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><8><2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           99952074
+D$ Write Misses:          1625464
+D$ Writebacks:            3461902
+D$ Miss Rate:             2.794%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           75
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><4><8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           25265163
+D$ Write Misses:          996959
+D$ Writebacks:            2099744
+D$ Miss Rate:             0.722%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           36
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><4><4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           54112319
+D$ Write Misses:          2022766
+D$ Writebacks:            4186138
+D$ Miss Rate:             1.544%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           111
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><4><2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           108786872
+D$ Write Misses:          3637290
+D$ Writebacks:            7398031
+D$ Miss Rate:             3.092%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           253
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+
+<8><2><8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           52530197
+D$ Write Misses:          8111763
+D$ Writebacks:            15945228
+D$ Miss Rate:             1.668%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           133
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Running following config: <8>:<2>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           81684848
+D$ Write Misses:          10211923
+D$ Writebacks:            20103722
+D$ Miss Rate:             2.528%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           469
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <8>:<2>:<4096>
+Running following config: <8>:<2>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           130652965
+D$ Write Misses:          11061766
+D$ Writebacks:            22219651
+D$ Miss Rate:             3.898%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           889
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <8>:<2>:<2048>
+Running following config: <4>:<8>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           24239321
+D$ Write Misses:          828753
+D$ Writebacks:            1779139
+D$ Miss Rate:             0.690%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           40
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<8>:<8192>
+Running following config: <4>:<8>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           52694020
+D$ Write Misses:          1743615
+D$ Writebacks:            3584167
+D$ Miss Rate:             1.497%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           67
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<8>:<4096>
+Running following config: <4>:<8>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           108145817
+D$ Write Misses:          3576287
+D$ Writebacks:            7338867
+D$ Miss Rate:             3.073%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           135
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<8>:<2048>
+Running following config: <4>:<4>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           32790317
+D$ Write Misses:          2341057
+D$ Writebacks:            4864394
+D$ Miss Rate:             0.966%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           134
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<4>:<8192>
+Running following config: <4>:<4>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           62060526
+D$ Write Misses:          4315792
+D$ Writebacks:            8707990
+D$ Miss Rate:             1.826%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           321
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<4>:<4096>
+Running following config: <4>:<4>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           120453870
+D$ Write Misses:          8478496
+D$ Writebacks:            16817109
+D$ Miss Rate:             3.546%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           837
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<4>:<2048>
+Running following config: <4>:<2>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           98188343
+D$ Write Misses:          21247281
+D$ Writebacks:            43351222
+D$ Miss Rate:             3.285%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           1758
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<2>:<8192>
+Running following config: <4>:<2>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           123614899
+D$ Write Misses:          22064769
+D$ Writebacks:            45381035
+D$ Miss Rate:             4.007%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           2019
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<2>:<4096>
+Running following config: <4>:<2>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           189945031
+D$ Write Misses:          33748534
+D$ Writebacks:            65298449
+D$ Miss Rate:             6.153%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           2821
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <4>:<2>:<2048>
+Running following config: <2>:<8>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           30863388
+D$ Write Misses:          1953956
+D$ Writebacks:            3957287
+D$ Miss Rate:             0.903%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           85
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<8>:<8192>
+Running following config: <2>:<8>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           59702540
+D$ Write Misses:          3955396
+D$ Writebacks:            7978786
+D$ Miss Rate:             1.751%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           305
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<8>:<4096>
+Running following config: <2>:<8>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           117431273
+D$ Write Misses:          7428187
+D$ Writebacks:            15143213
+D$ Miss Rate:             3.434%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           857
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<8>:<2048>
+Running following config: <2>:<4>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           42577667
+D$ Write Misses:          5554036
+D$ Writebacks:            11303458
+D$ Miss Rate:             1.324%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           529
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<4>:<8192>
+Running following config: <2>:<4>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           81910432
+D$ Write Misses:          11764578
+D$ Writebacks:            23254814
+D$ Miss Rate:             2.577%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           856
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<4>:<4096>
+Running following config: <2>:<4>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           145169337
+D$ Write Misses:          18756351
+D$ Writebacks:            37895680
+D$ Miss Rate:             4.509%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           1525
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<4>:<2048>
+Running following config: <2>:<2>:<8192>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           233361677
+D$ Write Misses:          55233469
+D$ Writebacks:            118788691
+D$ Miss Rate:             7.938%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           4016
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<2>:<8192>
+Running following config: <2>:<2>:<4096>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           283380825
+D$ Write Misses:          75132019
+D$ Writebacks:            143891729
+D$ Miss Rate:             9.861%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           5002
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<2>:<4096>
+Running following config: <2>:<2>:<2048>
+bbl loader
+Running Part A...
+
+n = 10, 0.033 Gflop/s
+n = 14, 0.033 Gflop/s
+n = 19, 0.033 Gflop/s
+n = 26, 0.034 Gflop/s
+n = 35, 0.034 Gflop/s
+n = 47, 0.034 Gflop/s
+n = 63, 0.034 Gflop/s
+n = 85, 0.034 Gflop/s
+n = 114, 0.034 Gflop/s
+n = 153, 0.034 Gflop/s
+n = 205, 0.034 Gflop/s
+n = 274, 0.034 Gflop/s
+n = 366, 0.034 Gflop/s
+n = 400, 0.034 Gflop/s
+
+
+D$ Bytes Read:            15685780507
+D$ Bytes Written:         1379072976
+D$ Read Accesses:         3309973687
+D$ Write Accesses:        325709024
+D$ Read Misses:           304926268
+D$ Write Misses:          69334702
+D$ Writebacks:            141695896
+D$ Miss Rate:             10.294%
+I$ Bytes Read:            27799503272
+I$ Bytes Written:         0
+I$ Read Accesses:         9110597059
+I$ Write Accesses:        0
+I$ Read Misses:           7440
+I$ Write Misses:          0
+I$ Writebacks:            0
+I$ Miss Rate:             0.000%
+Completed config: <2>:<2>:<2048>
